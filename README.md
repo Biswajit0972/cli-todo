@@ -20,7 +20,7 @@ Roni’s CLI is a simple, interactive command-line tool built with **Node.js** a
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/roni-cli.git
+git clone https://github.com/Biswajit0972/cli-todo
 cd roni-cli
 npm install
 ```
