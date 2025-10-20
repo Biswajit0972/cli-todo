@@ -1,0 +1,19 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc && cp src/database.json dist/database.json"
+  },
+  "type": "module",
+  "dependencies": {
+    "commander": "^14.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.8.1",
+    "nodemon": "^3.1.10",
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
