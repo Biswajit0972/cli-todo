@@ -1,4 +1,4 @@
-Here’s a clean, professional **README.md** that documents your CLI tool with examples, descriptions, and output blocks.
+Project URL: https://roadmap.sh/projects/task-tracker
 
 ***
 
@@ -172,5 +172,3 @@ src/
 - Enable auto-generated task IDs
 
 ***
-
-Would you like me to also include a short **“How It Works”** section that explains the spinner, database handling, and readline prompt flow?
